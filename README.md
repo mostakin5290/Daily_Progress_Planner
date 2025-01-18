@@ -1,4 +1,8 @@
-# User Manual for the Calendar and Event Management System
+Here’s your updated content with the link embedded:
+
+---
+
+# [User Manual for the Calendar and Event Management System](https://daily-work-tracker.netlify.app/#)
 
 This manual provides an overview of the functionality and usage of the Calendar and Event Management System.
 
@@ -115,4 +119,4 @@ This manual provides an overview of the functionality and usage of the Calendar 
 3. **Dark Mode Not Toggling**  
    - Ensure JavaScript is enabled in your browser.
 
----
+--- 
